@@ -1,0 +1,9 @@
+br\udesc\doo2\sistemapaciente\controlador\PacienteConsultaControlador.class
+br\udesc\doo2\sistemapaciente\modelo\Paciente.class
+br\udesc\doo2\sistemapaciente\visao\PacienteConsultaVisao.class
+br\udesc\doo2\sistemapaciente\app\Sistema.class
+br\udesc\doo2\sistemapaciente\repositorio\PacienteRepositorio.class
+br\udesc\doo2\sistemapaciente\excecoes\PacienteException.class
+br\udesc\doo2\sistemapaciente\controlador\PacienteManutencaoControlador.class
+br\udesc\doo2\sistemapaciente\dao\PacienteDAO.class
+br\udesc\doo2\sistemapaciente\visao\PacienteManutencaoVisao.class
